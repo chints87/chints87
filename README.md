@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chintan @chints87
-- 👀 I’m interested in solving problems from ideation and bring them alive doing front-end development
-- 🌱 I’m currently learning NEXT.js
-- 💞️ I’m looking to collaborate on community projects where I can learn and help others
+- 👀 I’m interested in solving problems from ideation and bring them alive from design, front-end development and dabbing a little in back-end development
+- 🌱 I’m currently learning NEXT.js, Strapi.io
+- 💞️ I’m looking to collaborate on community projects where I can learn and help others and looking to work in teams
 - 📫 You can reach me at cgandhi4@gmail.com
 
 <!---
